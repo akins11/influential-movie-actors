@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nollywood Influencial Actor"
+
+format:
+  html:
+    theme: 
+      - Litera
+      - custom.scss
+    css: styles.css
+    mainfont: Montserrat
+    toc: true
+    page-layout: custom
+
+
